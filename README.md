@@ -1,5 +1,5 @@
-# Markdown
-<img src="/src/Markdown_logo.png" width="200">
+
+# <img src="/src/Markdown_logo.png" width="200"> Markdown
 
 ```
 
