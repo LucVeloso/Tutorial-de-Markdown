@@ -15,8 +15,8 @@
 É possível adiconar imagens usando a seguinte estrutura
 
 ``` Formato: ![Texto](url)```
+
 <p>ou como uma tag HTML</p>
-``` <img src="/src/Markdown_logo.png" width="40" height=23> ``` 
 
 ## Lista
 
@@ -56,10 +56,9 @@
 
 ### Tarefas
 
-[x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-[x] list syntax required (any unordered or ordered list supported)
-[x] this is a complete item
-[ ] this is an incomplete item
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
 
 ## Tabela
 
@@ -76,3 +75,5 @@
 <p>https://stackedit.io/editor</p>
 <p>https://guides.github.com/features/mastering-markdown/</p>
 <p>https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md</p>
+<p>https://help.github.com/en/github/writing-on-github</p>
+
