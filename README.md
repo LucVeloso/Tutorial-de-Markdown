@@ -1,4 +1,4 @@
-# <img src="/src/Markdown_logo.png" width="40" height=30>     MARKDOWN
+# <img src="/src/Markdown_logo.png" width="40" height=25>     MARKDOWN
 
 ```
 
