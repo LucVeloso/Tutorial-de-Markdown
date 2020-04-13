@@ -10,8 +10,13 @@
 
 ## Imagens
 
-![Markdown](/src/Markdown_logo.png)
-Formato: ![Texto](url)
+<img src="/src/Markdown_logo.png" width="40" height=23>
+
+É possível adiconar imagens usando a seguinte estrutura
+
+``` Formato: ![Texto](url)```
+<p>ou como uma tag HTML</p>
+``` <img src="/src/Markdown_logo.png" width="40" height=23> ``` 
 
 ## Lista
 
@@ -49,7 +54,20 @@ Formato: ![Texto](url)
   * Item 2a
   * Item 2b
 
+### Tarefas
+
+[x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+[x] list syntax required (any unordered or ordered list supported)
+[x] this is a complete item
+[ ] this is an incomplete item
+
 ## Tabela
+
+| Tabelas         | São                     | Legais  |
+| --------------- |:----------------------: | -------:|
+| a coluna 3 está | alinhada para a direita |   $1600 |
+| a coluna 2 está | centralizada            |     $12 |
+| a coluna 1 está | alinhada                |      $1 |
 
 # Links uteis e referênias
 
