@@ -4,21 +4,54 @@
 
 ```
 
+*******
+
+Tabelas de conteúdo 
+1. [Sintaxe](#syntax)
+1. [Estruturas de texto](#structures)
+    1. [Imagem](#images)
+    1. [Lista](#lists)
+        1. [Ordenada](#ordered)
+        1. [Desordenada](#unordered)
+        1. [Tarefas](#tasks)
+    1. [Tabelas](#tables)
+1. [Referências](#references)
+
+*******
+
+<div id='sintax'/>  
+
 # Sintaxe
 
+| Estilo                 | Sintaxe            | Exemplo                              | Saída                              |
+|:-----------------------|:------------------:|:------------------------------------:|:----------------------------------:|
+| Negrito                | `** **` ou `__ __` | `**Este texto está em negrito**`     | **Este texto está em negrito**     |
+| Itálico                | `* *` ou `_ _`     | `*Este texto está em itálico*`       | *Este texto está em itálico*       |
+| Riscado                | `~~ ~~`            | `~~Este texto foi um erro~~`         | ~~Este texto foi um erro~~         |
+| Todo negrito e itálico | `*** ***`          | `***Todo esse texto é importante***` | ***Todo esse texto é importante*** |
+
+<div id='structures'/>  
+
 # Estruturas de texto
+
+<div id='images'/> 
 
 ## Imagens
 
 <img src="/src/Markdown_logo.png" width="40" height=23>
 
-É possível adiconar imagens usando a seguinte estrutura
+É possível adiconar imagens usando a seguinte estrutura  
+gfhgg
 
 ``` Formato: ![Texto](url)```
 
 <p>ou como uma tag HTML</p>
 
+<div id='lists'/> 
+
 ## Lista
+
+<div id='ordered'/> 
 
 ### Ordenada
 
@@ -38,6 +71,8 @@
     1. Item 3.1
     1. Item 3.2
 
+<div id='unordered'/> 
+
 ### Desordenada
 
 
@@ -54,11 +89,15 @@
   * Item 2a
   * Item 2b
 
+<div id='tasks'/> 
+
 ### Tarefas
 
 - [x] Finish my changes
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
+
+<div id='table'/> 
 
 ## Tabela
 
@@ -68,12 +107,15 @@
 | a coluna 2 está | centralizada            |     $12 |
 | a coluna 1 está | alinhada                |      $1 |
 
+<div id='references'/> 
+
 # Links uteis e referênias
 
-<p>https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code</p>
-<p>https://blog.da2k.com.br/2015/02/08/aprenda-markdown/</p>
-<p>https://stackedit.io/editor</p>
-<p>https://guides.github.com/features/mastering-markdown/</p>
-<p>https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md</p>
-<p>https://help.github.com/en/github/writing-on-github</p>
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code  
+https://blog.da2k.com.br/2015/02/08/aprenda-markdown/  
+https://stackedit.io/editor
+https://guides.github.com/features/mastering-markdown/  
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+https://help.github.com/en/github/writing-on-github  
+https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md
 
