@@ -4,9 +4,15 @@
 
 Tabelas de conteúdo 
 1. [Sintaxe](#syntax)
+    1. [Cabeçalho](#headers)
+    1. [Citação](#quotes)
+    1. [Divisões de texto](#divisions)
+    1. [Quebra de linha](#breaks)
 1. [Estruturas de texto](#structures)
-    1. [Imagem](#images)
-    1. [Lista](#lists)
+    1. [Emoji](#emoji)
+    1. [Links](#links)
+      1. [Imagem](#images)
+    1. [Listas](#lists)
         1. [Ordenada](#ordered)
         1. [Desordenada](#unordered)
         1. [Tarefas](#tasks)
@@ -27,6 +33,70 @@ Tabelas de conteúdo
 | Riscado                | `~~ ~~`            | `~~Este texto foi um erro~~`         | ~~Este texto foi um erro~~         |
 | Todo negrito e itálico | `*** ***`          | `***Todo esse texto é importante***` | ***Todo esse texto é importante*** |
 
+<div id='headers'/>
+
+## Cabeçalhos
+
+```
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+```
+
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+
+<div id='quotes'/> 
+
+## Citação
+
+<div id='divisions'/>  
+
+## Divisões de texto 
+
+```
+***
+---
+- - -
+```
+
+***
+---
+- - -
+
+<div id='breaks'/>  
+
+## Quebra de linha  
+
+```
+Frase 1
+Frase 2
+
+Frase 1  
+Frase 2
+
+Frase 1
+
+Frase 2
+```
+
+Frase 1
+Frase 2
+
+Frase 1  
+Frase 2
+
+Frase 1
+
+Frase 2
+
 Emoji
 :smile:
 
@@ -34,9 +104,19 @@ Emoji
 
 # Estruturas de texto
 
+<div id='emoji'/> 
+
+## Emoji
+:smile:
+
+<div id='links'/> 
+
+## Links
+
+
 <div id='images'/> 
 
-## Imagens
+### Imagens
 
 <img src="/src/Markdown_logo.png" width="40" height=23>
 
@@ -51,7 +131,7 @@ ou como uma tag HTML
 
 <div id='lists'/> 
 
-## Lista
+## Listas
 
 <div id='ordered'/> 
 
@@ -90,14 +170,15 @@ ou como uma tag HTML
 * Item 2
   * Item 2a
   * Item 2b
+    *Item 
 
 <div id='tasks'/> 
 
 ### Tarefas
 
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
+- [x] Finalizar minhas mudanças
+- [ ] Fazer o push dos meus commits
+- [ ] Criar um pull request
 
 <div id='table'/> 
 
