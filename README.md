@@ -11,7 +11,7 @@ Tabelas de conteúdo
 1. [Estruturas de texto](#structures)
     1. [Emoji](#emoji)
     1. [Links](#links)
-      1. [Imagem](#images)
+        1. [Imagem](#images)
     1. [Listas](#lists)
         1. [Ordenada](#ordered)
         1. [Desordenada](#unordered)
@@ -96,9 +96,6 @@ Frase 2
 Frase 1
 
 Frase 2
-
-Emoji
-:smile:
 
 <div id='structures'/>  
 
