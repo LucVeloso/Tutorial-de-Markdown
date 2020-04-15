@@ -1,9 +1,5 @@
 # <img src="/src/Markdown_logo.png" width="40" height=23>     Markdown
 
-```
-
-```
-
 *******
 
 Tabelas de conteúdo 
@@ -21,14 +17,18 @@ Tabelas de conteúdo
 
 <div id='sintax'/>  
 
-# Sintaxe
+# Sintaxe 
 
 | Estilo                 | Sintaxe            | Exemplo                              | Saída                              |
 |:-----------------------|:------------------:|:------------------------------------:|:----------------------------------:|
 | Negrito                | `** **` ou `__ __` | `**Este texto está em negrito**`     | **Este texto está em negrito**     |
 | Itálico                | `* *` ou `_ _`     | `*Este texto está em itálico*`       | *Este texto está em itálico*       |
+| Marcado                | ``` ` ` ```        | ``` `Este texto está marcado` ```    | `Este texto está marcado`          |
 | Riscado                | `~~ ~~`            | `~~Este texto foi um erro~~`         | ~~Este texto foi um erro~~         |
 | Todo negrito e itálico | `*** ***`          | `***Todo esse texto é importante***` | ***Todo esse texto é importante*** |
+
+Emoji
+:smile:
 
 <div id='structures'/>  
 
@@ -45,7 +45,9 @@ gfhgg
 
 ``` Formato: ![Texto](url)```
 
-<p>ou como uma tag HTML</p>
+ou como uma tag HTML  
+
+``` <img src="/src/Markdown_logo.png" width="40" height=23> ```
 
 <div id='lists'/> 
 
