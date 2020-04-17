@@ -1,8 +1,14 @@
 # <img src="/src/Markdown_logo.png" width="40" height=23>     Markdown
 
+Oi, bem vindo!  
+Esse repositório é um tutorial com as funcionalidades básicas da linguagem Markdown, ele foi criado como complemento 
+para a aula de monitoria da disciplina de Técnicas de Programação do Instituto Federal da Paraíba, campus João Pessoa.
+
 *******
 
-Tabelas de conteúdo 
+Tabelas de conteúdo   
+
+1. [O que é Markdown?](#whatis)
 1. [Sintaxe](#syntax)
     1. [Cabeçalho](#headers)
     1. [Citação](#quotes)
@@ -21,6 +27,12 @@ Tabelas de conteúdo
 1. [Referências](#references)
 
 *******
+
+<div id='whatis'/>  
+
+# O que é Markdown?
+
+Markdown é uma linguagem de marcação
 
 <div id='sintax'/>  
 
@@ -105,11 +117,13 @@ Frase 2
 <div id='emoji'/> 
 
 ## Emoji
-:smile:
+:octocat:  
+:squirre:
 
 <div id='links'/> 
 
 ## Links
+
 
 
 <div id='images'/> 
@@ -258,9 +272,10 @@ print("Hello world!")
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code  
 https://blog.da2k.com.br/2015/02/08/aprenda-markdown/  
-https://stackedit.io/editor
+https://stackedit.io/editor  
 https://guides.github.com/features/mastering-markdown/  
-https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md  
 https://help.github.com/en/github/writing-on-github  
-https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md
+https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md  
+https://pt.wikipedia.org/wiki/Markdown  
 
