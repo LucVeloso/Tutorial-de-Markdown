@@ -206,6 +206,52 @@ ou como uma tag HTML (sendo ainda possível alterar atributos da imagem como lar
 
 ## Código
 
+C++
+
+````
+```c++
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout << "Hello world!" << endl;
+    
+    return 0;
+}
+```
+````
+
+
+
+```c++
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout << "Hello world!" << endl;
+    
+    return 0;
+}
+```
+
+Python
+
+````
+```python
+print("Hello world!")
+```
+````
+
+
+
+``` python
+print("Hello world!")
+```
+
 <div id='references'/> 
 
 # Links uteis e referênias
