@@ -17,6 +17,7 @@ Tabelas de conteúdo
         1. [Desordenada](#unordered)
         1. [Tarefas](#tasks)
     1. [Tabelas](#tables)
+    1. [Código](#code)
 1. [Referências](#references)
 
 *******
@@ -115,14 +116,14 @@ Frase 2
 
 ### Imagens
 
-<img src="/src/Markdown_logo.png" width="40" height=23>
+<img src="/src/Markdown_logo.png" width="80" height=46>
 
 É possível adiconar imagens usando a seguinte estrutura  
 gfhgg
 
 ``` Formato: ![Texto](url)```
 
-ou como uma tag HTML  
+ou como uma tag HTML (sendo ainda possível alterar atributos da imagem como largura e altura)  
 
 ``` <img src="/src/Markdown_logo.png" width="40" height=23> ```
 
@@ -173,6 +174,12 @@ ou como uma tag HTML
 
 ### Tarefas
 
+```
+- [x] Finalizar minhas mudanças
+- [ ] Fazer o push dos meus commits
+- [ ] Criar um pull request
+```
+
 - [x] Finalizar minhas mudanças
 - [ ] Fazer o push dos meus commits
 - [ ] Criar um pull request
@@ -181,11 +188,23 @@ ou como uma tag HTML
 
 ## Tabela
 
+```
 | Tabelas         | São                     | Legais  |
 | --------------- |:----------------------: | -------:|
 | a coluna 3 está | alinhada para a direita |   $1600 |
 | a coluna 2 está | centralizada            |     $12 |
 | a coluna 1 está | alinhada                |      $1 |
+```
+
+| Tabelas         | São                     | Legais  |
+| --------------- |:----------------------: | -------:|
+| a coluna 3 está | alinhada para a direita |   $1600 |
+| a coluna 2 está | centralizada            |     $12 |
+| a coluna 1 está | alinhada                |      $1 |
+
+<div id='code'/> 
+
+## Código
 
 <div id='references'/> 
 
