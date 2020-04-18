@@ -2,7 +2,7 @@
 
 Oi, bem vindo!  
 Esse repositório é um tutorial com as funcionalidades básicas da linguagem Markdown.  
-Criado como complemento para a aula de monitoria da disciplina de Técnicas de Programação do Instituto Federal da Paraíba, campus João Pessoa, utilizando o [esse](/src/Apresentaçãopptx) material.
+Criado como complemento para a aula de monitoria da disciplina de Técnicas de Programação do Instituto Federal da Paraíba, campus João Pessoa, utilizando o [esse](https://github.com/LucVeloso/Tutorial-de-Markdown/blob/master/src/Apresenta%C3%A7%C3%A3o.pptx) material.
 
 *******
 
