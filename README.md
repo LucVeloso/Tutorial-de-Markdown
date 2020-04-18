@@ -1,8 +1,8 @@
 # <img src="/src/Markdown_logo.png" width="40" height=23>     Markdown
 
 Oi, bem vindo!  
-Esse repositório é um tutorial com as funcionalidades básicas da linguagem Markdown, ele foi criado como complemento 
-para a aula de monitoria da disciplina de Técnicas de Programação do Instituto Federal da Paraíba, campus João Pessoa.
+Esse repositório é um tutorial com as funcionalidades básicas da linguagem Markdown.  
+Criado como complemento para a aula de monitoria da disciplina de Técnicas de Programação do Instituto Federal da Paraíba, campus João Pessoa, utilizando o [esse](/src/Apresentaçãopptx) material.
 
 *******
 
@@ -198,7 +198,7 @@ ou como uma tag HTML (sendo ainda possível alterar atributos da imagem como lar
 - [ ] Fazer o push dos meus commits
 - [ ] Criar um pull request
 
-<div id='table'/> 
+<div id='tables'/> 
 
 ## Tabela
 
